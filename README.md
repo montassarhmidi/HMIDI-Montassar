@@ -1,7 +1,7 @@
   
 👋 Hi, I’m @HMIDI-Montassar
 
-💻 Currently working as web developer Intern
+💻 Currently working as web developer
 
 💌 Reach me here montassar.hmidi@esprit.tn
 
